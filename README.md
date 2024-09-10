@@ -1,3 +1,3 @@
 # apnacollage-demo
 
-auther - Sahdev Savita
+auther - Sahdev Savita gwalior
